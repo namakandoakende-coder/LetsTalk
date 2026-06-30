@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "LetsTalk",
+    "slug": "letstalk",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.yourname.letstalk"
+    }
+  }
+}
